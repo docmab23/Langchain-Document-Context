@@ -4,4 +4,4 @@
 
 ### Give a document as a context to GPT-3.5
 
-### Powered by OpenAI embeddings, Langchain and FAISS
+### Powered by OpenAI Embeddings API, Langchain and FAISS
